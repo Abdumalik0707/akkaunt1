@@ -1,0 +1,172 @@
+header{
+   
+}
+.raqam{
+    color: green;
+}
+header{
+    display: flex;
+}
+.ortga:hover{
+    color: blue;
+}
+div{
+    color: green;
+}
+.sectoin1{
+    display: flex;
+    align-items: center;
+
+}
+.box{
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+    color: rgb(80, 79, 79);
+    font-size: 20px;
+}
+nav{
+    display: flex;
+    gap: 28px;
+    margin-left: 50px;
+}
+.call{
+    margin-left: 70px;
+}
+.uz{
+    width: 35px;
+    margin-left: 600px;
+}
+.uz1{
+    font-size: 20px;
+    margin-left: 10px;
+}
+.down{
+    width: 10px;
+    margin-left: 5px;
+}
+hr{
+    width: 1200px;
+    opacity: 0.4;
+}
+.box1{
+    
+    width: 1200px;
+    margin-left: 150px;
+}
+.uzum{
+    width: 130px;
+}
+.sections{
+    display: flex;
+    align-items: center;
+    
+}
+.locat{
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+    background-color: rgb(237, 238, 239);
+    border-radius: 7px;
+}
+.location{
+    width: 400px;
+    display: flex;
+    align-items: center;
+ 
+
+ 
+    
+}
+.down1{
+    width: 10px;
+    height: 10px;
+    margin-left: 6px;
+}
+h4{
+    margin-left: 6px;
+}
+nav a:hover{
+    color: black;
+}
+.sogot{
+    color: black;
+    font-size: 19px;
+    display: flex;
+    
+}
+.ortga{
+
+}
+.cat{
+    background-color:  rgb(237, 238, 239) ;
+    border-radius: 5px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 20px;
+}
+.fut{
+    color: black;
+    margin-left: 20px;
+    font-size: 13px;
+    color: rgb(101, 102, 103);
+}
+.kirish{
+    background-color: green;
+    border: none;
+    color: #fff;
+    width: 140px;
+    margin-left: 500px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 18px;
+    font-weight: 700;
+}
+.kirish:active{
+    background-color: rgb(3, 84, 3);
+}
+.royhat{
+  
+    height: 500px;
+    width: 500px;
+}
+.telefon{
+    font-size: 30px;
+    font-weight: 300;
+    color: black;
+}
+.royhat{
+   padding-left: 200px;
+   padding-top: 40px;
+   margin-left: 400px;
+}
+.tur{
+    border: none;
+    background-color: rgb(224, 231, 231);
+    height: 50px;
+    width: 220px;
+    border-radius: 10px;
+    font-size: 19px;
+    padding-left: 55px;
+}
+.kod{
+    background-color: black;
+    color: #fff;
+    width: 250px;
+    height: 50px;
+    border-radius: 24px;
+    margin-left: 17px;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.kodni{
+    font-size: 14px;
+}
+.kod:hover{
+    background-color: rgb(62, 61, 60);
+}
